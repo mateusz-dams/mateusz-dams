@@ -7,7 +7,8 @@ Uczeń technikum w Radomiu, kierunek technik informatyk. Współtworzę strony i
 - 🌐 **Portfolio:** [mateusz-dams.github.io](https://mateusz-dams.github.io)
 - 📄 **CV:** [CV-Mateusz-Dams.pdf](https://mateusz-dams.github.io/cv/CV-Mateusz-Dams.pdf)
 - ✉️ **Kontakt:** [dams.mateusz@gmail.com](mailto:dams.mateusz@gmail.com)
-- 📍 **Radom**
+- 📍 **Radom** – praca stacjonarna
+- 💻 **Praca zdalna**
 
 ## Wybrane projekty
 
@@ -16,7 +17,7 @@ Uczeń technikum w Radomiu, kierunek technik informatyk. Współtworzę strony i
     <td width="50%" valign="top">
       <a href="https://github.com/mateusz-dams/mateusz-dams.github.io/tree/main/cod"><img src="https://mateusz-dams.github.io/assets/cod.jpg" alt="Strona Centrum Odkrywania Doskonałości"></a>
       <br><b>Centrum Odkrywania Doskonałości</b> · <a href="https://cod.biz.pl/">cod.biz.pl</a>
-      <br>Współtworzenie redesignu i motywu WordPress, wdrożenie, system CRM
+      <br>Współtworzenie przebudowy strony i motywu WordPress, wdrożenie, system CRM
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/mateusz-dams/mateusz-dams.github.io/tree/main/pm-boxing"><img src="https://mateusz-dams.github.io/assets/pm-boxing.jpg" alt="Strona PM Boxing Studio"></a>
@@ -28,12 +29,12 @@ Uczeń technikum w Radomiu, kierunek technik informatyk. Współtworzę strony i
     <td width="50%" valign="top">
       <a href="https://github.com/mateusz-dams/mateusz-dams.github.io/tree/main/movena"><img src="https://mateusz-dams.github.io/assets/movena.jpg" alt="Strona Movena Pilates Studio"></a>
       <br><b>Movena Pilates Studio</b> · <a href="https://movenapilates.pl/">movenapilates.pl</a>
-      <br>Współtworzenie strony i motywu WordPress, współprowadzenie kampanii Meta Ads (ok. 100 zgłoszeń w 3 miesiące)
+      <br>Współtworzenie strony i motywu WordPress, prowadzenie kampanii Meta Ads (ok. 100 zgłoszeń w 3 miesiące)
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/mateusz-dams/mateusz-dams.github.io/tree/main/bizzlife"><img src="https://mateusz-dams.github.io/assets/bizzlife.jpg" alt="Strona biura rachunkowego Bizzlife"></a>
       <br><b>Bizzlife</b> · <a href="https://bizzlife.pl/">bizzlife.pl</a>
-      <br>Współtworzenie redesignu i wdrożenie
+      <br>Współtworzenie przebudowy strony i wdrożenie
     </td>
   </tr>
 </table>
