@@ -56,7 +56,7 @@ VS Code · GitHub Desktop · Figma · Google Tag Manager · GA4 · Meta Ads · G
 
 ## O mnie
 
-Od zawsze ciągnie mnie do elektroniki i sprzętu komputerowego. Sprawdzam, jak działają nowe urządzenia – od podzespołów i laptopów po telefony i smartwatche – i lubię doradzać innym, jaki sprzęt najlepiej sprawdzi się w ich przypadku. Na bieżąco śledzę też nowości ze świata IT. Poza tym jeżdżę na rowerze, odkąd pamiętam. Moja najdłuższa trasa to wyprawa na Święty Krzyż: 150 km w jeden dzień.
+Od zawsze ciągnie mnie do elektroniki i sprzętu komputerowego. Sprawdzam, jak działają nowe urządzenia – od podzespołów, laptopów i peryferiów po telefony i smartwatche – i lubię doradzać innym, jaki sprzęt najlepiej sprawdzi się w ich przypadku. Na bieżąco śledzę też nowości ze świata IT. Poza tym jeżdżę na rowerze, odkąd pamiętam. Moja najdłuższa trasa to wyprawa na Święty Krzyż: 150 km w jeden dzień.
 
 ## Teraz
 
